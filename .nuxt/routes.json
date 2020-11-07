@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index___it",
+    "path": "/it",
+    "component": "/Users/marcomongelli/Documents/08 Buono And Healthy/buonoAndHealthy_v2/Buono-And-Healthy/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7c14d129"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "/Users/marcomongelli/Documents/08 Buono And Healthy/buonoAndHealthy_v2/Buono-And-Healthy/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7c14d129"
+  }
+]
